@@ -21,4 +21,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-[]
+[Image](./screenshot.png)
+
+[Link](https://ceven8498.github.io/PWGen/)
+
+[Repo](https://github.com/Ceven8498/PWGen)
